@@ -1,3 +1,3 @@
 # TreeTriangulation
 
-![alt text](https://github.com/SteelFlame2/TreeTriangulation/Screenshot_3.png?raw=true)
+![alt text](https://github.com/SteelFlame2/TreeTriangulation/blob/main/Screenshot_3.png)
